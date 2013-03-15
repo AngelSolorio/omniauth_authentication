@@ -1,0 +1,15 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  sessions:
+    create: 
+      signed_in: 'Signed in'
+    destroy:
+      signed_out: 'Signed out'
+      
+  layouts:
+    application:
+      sign_out: 'Signed out'
+      signin_eith: 'Sign in with: '
+      
